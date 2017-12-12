@@ -1,0 +1,25 @@
+{
+  "name": "simple-promise-loaders",
+  "version": "1.0.0",
+  "description": "Promise based loaders for script and image.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liziqiang/loaders.git"
+  },
+  "keywords": [
+    "loaders",
+    "script",
+    "image",
+    "promise"
+  ],
+  "author": "Ziqiang Li <ziqiang.lee@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liziqiang/loaders/issues"
+  },
+  "homepage": "https://github.com/liziqiang/loaders#readme"
+}
