@@ -1,6 +1,6 @@
 {
   "name": "simple-promise-loaders",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Promise based loaders for script and image.",
   "main": "src/index.js",
   "scripts": {
